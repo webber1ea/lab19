@@ -1,0 +1,4 @@
+
+var quotes = ['I have what i have and i am happy ive lost what ive lost and i am still happy (Outlook - Rupi Kaur)', 'the world gives you so much pain and here you are making gold out of it (There is nothing purer then that- Rupi Kaur)', 'she is water. soft enough to offer life tough enough to drown it away (Rupi Kaur)', 'i thank the universe for taking away everything it has taken and giving to me everything it is giving (balance - rupi kaur)', 'to hate is an easy lazy thing but to love takes strength everyone has but not all are willing to practice (Rupi Kaur)', 'it was when i stopped searching for home within others and lifted the foundations of home within myself i found there were no roots more initmate than those between a mind and body that have decided to be whole (Rupi Kaur)'];
+
+module.exports = quotes;
